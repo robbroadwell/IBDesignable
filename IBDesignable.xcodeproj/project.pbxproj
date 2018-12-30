@@ -14,6 +14,7 @@
 		4F3CB30E21D9459C00CF7294 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4F3CB30C21D9459C00CF7294 /* LaunchScreen.storyboard */; };
 		4F3CB31921D9459C00CF7294 /* IBDesignableTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4F3CB31821D9459C00CF7294 /* IBDesignableTests.swift */; };
 		4F3CB32421D9459C00CF7294 /* IBDesignableUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4F3CB32321D9459C00CF7294 /* IBDesignableUITests.swift */; };
+		4F3CB33221D9478300CF7294 /* BoxView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4F3CB33121D9478300CF7294 /* BoxView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		4F3CB31F21D9459C00CF7294 /* IBDesignableUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = IBDesignableUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		4F3CB32321D9459C00CF7294 /* IBDesignableUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IBDesignableUITests.swift; sourceTree = "<group>"; };
 		4F3CB32521D9459C00CF7294 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		4F3CB33121D9478300CF7294 /* BoxView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BoxView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -98,6 +100,7 @@
 			isa = PBXGroup;
 			children = (
 				4F3CB30321D9459B00CF7294 /* AppDelegate.swift */,
+				4F3CB33121D9478300CF7294 /* BoxView.swift */,
 				4F3CB30521D9459B00CF7294 /* ViewController.swift */,
 				4F3CB30721D9459B00CF7294 /* Main.storyboard */,
 				4F3CB30A21D9459C00CF7294 /* Assets.xcassets */,
@@ -258,6 +261,7 @@
 			files = (
 				4F3CB30621D9459B00CF7294 /* ViewController.swift in Sources */,
 				4F3CB30421D9459B00CF7294 /* AppDelegate.swift in Sources */,
+				4F3CB33221D9478300CF7294 /* BoxView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
